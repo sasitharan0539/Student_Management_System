@@ -1,0 +1,110 @@
+{
+    "101": {
+        "name": "smith",
+        "age": 20,
+        "department": "IT",
+        "year": 2020,
+        "email": "smith@gmail.com",
+        "phone": "9876543210",
+        "marks": {
+            "maths": 90,
+            "python": 80,
+            "dbms": 60,
+            "ai": 50
+        },
+        "attendance": {
+            "total": 30,
+            "attended": 25
+        }
+    },
+    "102": {
+        "name": "martin",
+        "age": 20,
+        "department": "CSE",
+        "year": 2021,
+        "email": "martin@gmail.com",
+        "phone": "9876543210",
+        "marks": {
+            "maths": 80,
+            "python": 70,
+            "dbms": 50,
+            "ai": 40
+        },
+        "attendance": {
+            "total": 30,
+            "attended": 22
+        }
+    },
+    "104": {
+        "name": "marvin",
+        "age": 20,
+        "department": "MECH",
+        "year": 2020,
+        "email": "marvin@gmail.com",
+        "phone": "9876543210",
+        "marks": {
+            "maths": 70,
+            "python": 60,
+            "dbms": 56,
+            "ai": 40
+        },
+        "attendance": {
+            "total": 30,
+            "attended": 20
+        }
+    },
+    "105": {
+        "name": "king",
+        "age": 20,
+        "department": "IT",
+        "year": 2021,
+        "email": "king@gmail.com",
+        "phone": "987654320",
+        "marks": {
+            "maths": 80,
+            "python": 70,
+            "dbms": 60,
+            "ai": 50
+        },
+        "attendance": {
+            "total": 30,
+            "attended": 15
+        }
+    },
+    "106": {
+        "name": "samson",
+        "age": 21,
+        "department": "IT",
+        "year": 2020,
+        "email": "samson@gmail.com",
+        "phone": "9789297708",
+        "marks": {
+            "maths": 89,
+            "python": 70,
+            "dbms": 70,
+            "ai": 40
+        },
+        "attendance": {
+            "total": 30,
+            "attended": 22
+        }
+    },
+    "107": {
+        "name": "tavin",
+        "age": 21,
+        "department": "CSE",
+        "year": 2021,
+        "email": "tavin@gmail.com",
+        "phone": "9876543210",
+        "marks": {
+            "maths": 89,
+            "python": 67,
+            "dbms": 90,
+            "ai": 90
+        },
+        "attendance": {
+            "total": 30,
+            "attended": 28
+        }
+    }
+}
